@@ -286,23 +286,5 @@ This project builds on ideas from, and should be compared against:
 - LoRAMoE, SAPT and related routed or mixture-of-LoRA methods
 - Activation patching and causal mediation analysis for model interpretability
 
-Check recent literature before positioning novelty claims.
-
 ---
 
-## Citation
-
-```bibtex
-@misc{causalorthlora,
-  title  = {Causal-Orthogonal LoRA: Continual Learning for Small Language Models on Consumer GPUs},
-  author = {<Your Name>},
-  year   = {2026},
-  url    = {https://github.com/<your-username>/causal-orth-lora}
-}
-```
-
----
-
-## License
-
-Add a license file (for example MIT or Apache-2.0) before publishing.
